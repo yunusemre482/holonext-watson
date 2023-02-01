@@ -10,7 +10,8 @@ app.get('/migros', (req, res) => {
 	res.sendFile(__dirname + '/migros/index.html');
 });
 
-app.use(express.static('watson'));
+app.use('/data/watson', express.static('watson'))
+app.use('/data/migros', express.static('migros'))
 
 
 app.listen(3000, () => {

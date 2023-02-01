@@ -2,7 +2,7 @@ const express = require('express');
 
 const app = express();
 
-app.get('/watson', (req, res) => {
+app.get('/watsons', (req, res) => {
 	res.sendFile(__dirname + '/watson/index.html');
 });
 

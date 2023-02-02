@@ -1,306 +1,281 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour start="node12" appversion="6.0.1" apprev="17227">
-  <panorama hideabout="1" id="node12">
-    <input leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1920" levelbias="0.400" overlap="1" width="1920" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0">
-      <level height="1920" width="1920" preload="0" predecode="0"/>
-      <level height="960" width="960" preload="0" predecode="0"/>
-      <level height="480" width="480" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
-    </input>
-    <view fovmode="0" pannorth="0">
-      <start fov="70.1063" tilt="-14.6952" projection="4" pan="120.007"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="270" pan="360"/>
-    </view>
-    <userdata description="" info="" customnodeid="" copyright="" author="" tags="" datetime="" longitude="" source="" comment="" title="" latitude=""/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label backgroundalpha="1" textalpha="1" borderradius="1" border="1" textcolor="0x000000" height="20" width="180" wordwrap="1" borderalpha="1" background="1" bordercolor="0x000000" enabled="1" backgroundcolor="0xffffff"/>
-      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
-    </hotspots>
-    <media/>
-    <transition zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0" zoomfov="20" softedge="0" type="crossdissolve" blendtime="1" enabled="1" zoomout="0"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" rubberband="0" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" lockedkeyboard="0" hideabout="1" invertcontrol="1" invertwheel="0">
-      <menulink text="360 VR Turkey" url="https://www.360vrturkey.com"/>
-    </control>
-  </panorama>
-  <panorama hideabout="1" id="node1">
-    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1920" levelbias="0.400" overlap="1" width="1920" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0">
-      <level height="1920" width="1920" preload="0" predecode="0"/>
-      <level height="960" width="960" preload="0" predecode="0"/>
-      <level height="480" width="480" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
-    </input>
-    <view fovmode="0" pannorth="0">
-      <start fov="70.1063" tilt="-1.65452" projection="4" pan="-133.566"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="270" pan="360"/>
-    </view>
-    <userdata description="" info="" customnodeid="" copyright="" author="" tags="" datetime="" longitude="" source="" comment="" title="" latitude=""/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label backgroundalpha="1" textalpha="1" borderradius="1" border="1" textcolor="0x000000" height="20" width="180" wordwrap="1" borderalpha="1" background="1" bordercolor="0x000000" enabled="1" backgroundcolor="0xffffff"/>
-      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
-    </hotspots>
-    <media/>
-    <transition zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0" zoomfov="20" softedge="0" type="crossdissolve" blendtime="1" enabled="1" zoomout="0"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" rubberband="0" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" lockedkeyboard="0" hideabout="1" invertcontrol="1" invertwheel="0">
-      <menulink text="360 VR Turkey" url="https://www.360vrturkey.com"/>
-    </control>
-  </panorama>
-  <panorama hideabout="1" id="node2">
-    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1920" levelbias="0.400" overlap="1" width="1920" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0">
-      <level height="1920" width="1920" preload="0" predecode="0"/>
-      <level height="960" width="960" preload="0" predecode="0"/>
-      <level height="480" width="480" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
-    </input>
-    <view fovmode="0" pannorth="0">
-      <start fov="70.1063" tilt="-21.508" projection="4" pan="150.876"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="270" pan="360"/>
-    </view>
-    <userdata description="" info="" customnodeid="" copyright="" author="" tags="" datetime="" longitude="" source="" comment="" title="" latitude=""/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label backgroundalpha="1" textalpha="1" borderradius="1" border="1" textcolor="0x000000" height="20" width="180" wordwrap="1" borderalpha="1" background="1" bordercolor="0x000000" enabled="1" backgroundcolor="0xffffff"/>
-      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
-    </hotspots>
-    <media/>
-    <transition zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0" zoomfov="20" softedge="0" type="crossdissolve" blendtime="1" enabled="1" zoomout="0"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" rubberband="0" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" lockedkeyboard="0" hideabout="1" invertcontrol="1" invertwheel="0">
-      <menulink text="360 VR Turkey" url="https://www.360vrturkey.com"/>
-    </control>
-  </panorama>
-  <panorama hideabout="1" id="node3">
-    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1920" levelbias="0.400" overlap="1" width="1920" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0">
-      <level height="1920" width="1920" preload="0" predecode="0"/>
-      <level height="960" width="960" preload="0" predecode="0"/>
-      <level height="480" width="480" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
-    </input>
-    <view fovmode="0" pannorth="0">
-      <start fov="70.1063" tilt="-6.53564" projection="4" pan="77.3472"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="270" pan="360"/>
-    </view>
-    <userdata description="" info="" customnodeid="" copyright="" author="" tags="" datetime="" longitude="" source="" comment="" title="" latitude=""/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label backgroundalpha="1" textalpha="1" borderradius="1" border="1" textcolor="0x000000" height="20" width="180" wordwrap="1" borderalpha="1" background="1" bordercolor="0x000000" enabled="1" backgroundcolor="0xffffff"/>
-      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
-    </hotspots>
-    <media/>
-    <transition zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0" zoomfov="20" softedge="0" type="crossdissolve" blendtime="1" enabled="1" zoomout="0"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" rubberband="0" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" lockedkeyboard="0" hideabout="1" invertcontrol="1" invertwheel="0">
-      <menulink text="360 VR Turkey" url="https://www.360vrturkey.com"/>
-    </control>
-  </panorama>
-  <panorama hideabout="1" id="node4">
-    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1920" levelbias="0.400" overlap="1" width="1920" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0">
-      <level height="1920" width="1920" preload="0" predecode="0"/>
-      <level height="960" width="960" preload="0" predecode="0"/>
-      <level height="480" width="480" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
-    </input>
-    <view fovmode="0" pannorth="0">
-      <start fov="70.1063" tilt="-19.4635" projection="4" pan="31.1764"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="270" pan="360"/>
-    </view>
-    <userdata description="" info="" customnodeid="" copyright="" author="" tags="" datetime="" longitude="" source="" comment="" title="" latitude=""/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label backgroundalpha="1" textalpha="1" borderradius="1" border="1" textcolor="0x000000" height="20" width="180" wordwrap="1" borderalpha="1" background="1" bordercolor="0x000000" enabled="1" backgroundcolor="0xffffff"/>
-      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
-    </hotspots>
-    <media/>
-    <transition zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0" zoomfov="20" softedge="0" type="crossdissolve" blendtime="1" enabled="1" zoomout="0"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" rubberband="0" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" lockedkeyboard="0" hideabout="1" invertcontrol="1" invertwheel="0">
-      <menulink text="360 VR Turkey" url="https://www.360vrturkey.com"/>
-    </control>
-  </panorama>
+<tour start="node5" appversion="6.0.1" apprev="17227">
   <panorama hideabout="1" id="node5">
-    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1920" levelbias="0.400" overlap="1" width="1920" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0">
-      <level height="1920" width="1920" preload="0" predecode="0"/>
-      <level height="960" width="960" preload="0" predecode="0"/>
-      <level height="480" width="480" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input width="1920" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1920" overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start fov="70.1063" tilt="-10.4958" projection="4" pan="172.786"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="270" pan="360"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-0.539177" tilt="5.60823" fov="70.1063"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
     </view>
-    <userdata description="" info="" customnodeid="" copyright="" author="" tags="" datetime="" longitude="" source="" comment="" title="" latitude=""/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label backgroundalpha="1" textalpha="1" borderradius="1" border="1" textcolor="0x000000" height="20" width="180" wordwrap="1" borderalpha="1" background="1" bordercolor="0x000000" enabled="1" backgroundcolor="0xffffff"/>
-      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+    <userdata customnodeid="" title="ELSEVE SHELF" copyright="" tags="wetransfer_migros-yeniler_2023-02-02_1048" source="" description="" datetime="" comment="" latitude="" author="" info="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" enabled="1" borderalpha="1" height="20" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" borderradius="1" textalpha="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0" zoomfov="20" softedge="0" type="crossdissolve" blendtime="1" enabled="1" zoomout="0"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" rubberband="0" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" lockedkeyboard="0" hideabout="1" invertcontrol="1" invertwheel="0">
-      <menulink text="360 VR Turkey" url="https://www.360vrturkey.com"/>
+    <transition enabled="1" zoomout="0" zoomspeed="2" zoomoutpause="1" softedge="0" zoomin="0" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" hideabout="1" lockedwheel="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" contextprojections="0" contextfullscreen="1">
+      <menulink url="https://www.360vrturkey.com" text="360 VR Turkey"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node6">
-    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1920" levelbias="0.400" overlap="1" width="1920" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0">
-      <level height="1920" width="1920" preload="0" predecode="0"/>
-      <level height="960" width="960" preload="0" predecode="0"/>
-      <level height="480" width="480" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input width="1920" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1920" overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start fov="70.1063" tilt="-11.0977" projection="4" pan="103.493"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="270" pan="360"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-135.735" tilt="1.03626" fov="70.1063"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
     </view>
-    <userdata description="" info="" customnodeid="" copyright="" author="" tags="" datetime="" longitude="" source="" comment="" title="" latitude=""/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label backgroundalpha="1" textalpha="1" borderradius="1" border="1" textcolor="0x000000" height="20" width="180" wordwrap="1" borderalpha="1" background="1" bordercolor="0x000000" enabled="1" backgroundcolor="0xffffff"/>
-      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+    <userdata customnodeid="" title="GIANT HYDRA DUMMY &amp; TREATMENT BAR" copyright="" tags="wetransfer_migros-yeniler_2023-02-02_1048" source="" description="" datetime="" comment="" latitude="" author="" info="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" enabled="1" borderalpha="1" height="20" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" borderradius="1" textalpha="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0" zoomfov="20" softedge="0" type="crossdissolve" blendtime="1" enabled="1" zoomout="0"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" rubberband="0" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" lockedkeyboard="0" hideabout="1" invertcontrol="1" invertwheel="0">
-      <menulink text="360 VR Turkey" url="https://www.360vrturkey.com"/>
+    <transition enabled="1" zoomout="0" zoomspeed="2" zoomoutpause="1" softedge="0" zoomin="0" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" hideabout="1" lockedwheel="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" contextprojections="0" contextfullscreen="1">
+      <menulink url="https://www.360vrturkey.com" text="360 VR Turkey"/>
     </control>
   </panorama>
-  <panorama hideabout="1" id="node7">
-    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1920" levelbias="0.400" overlap="1" width="1920" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0">
-      <level height="1920" width="1920" preload="0" predecode="0"/>
-      <level height="960" width="960" preload="0" predecode="0"/>
-      <level height="480" width="480" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama hideabout="1" id="node2">
+    <input width="1920" levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1920" overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start fov="70.1063" tilt="-10.6267" projection="4" pan="149.899"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="270" pan="360"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="0.743093" tilt="-9.79796" fov="70.1063"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
     </view>
-    <userdata description="" info="" customnodeid="" copyright="" author="" tags="" datetime="" longitude="" source="" comment="" title="" latitude=""/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label backgroundalpha="1" textalpha="1" borderradius="1" border="1" textcolor="0x000000" height="20" width="180" wordwrap="1" borderalpha="1" background="1" bordercolor="0x000000" enabled="1" backgroundcolor="0xffffff"/>
-      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+    <userdata customnodeid="" title="EXCELLENCE SHELF" copyright="" tags="wetransfer_migros-yeniler_2023-02-02_1048" source="" description="" datetime="" comment="" latitude="" author="" info="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" enabled="1" borderalpha="1" height="20" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" borderradius="1" textalpha="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0" zoomfov="20" softedge="0" type="crossdissolve" blendtime="1" enabled="1" zoomout="0"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" rubberband="0" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" lockedkeyboard="0" hideabout="1" invertcontrol="1" invertwheel="0">
-      <menulink text="360 VR Turkey" url="https://www.360vrturkey.com"/>
+    <transition enabled="1" zoomout="0" zoomspeed="2" zoomoutpause="1" softedge="0" zoomin="0" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" hideabout="1" lockedwheel="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" contextprojections="0" contextfullscreen="1">
+      <menulink url="https://www.360vrturkey.com" text="360 VR Turkey"/>
     </control>
   </panorama>
-  <panorama hideabout="1" id="node8">
-    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1920" levelbias="0.400" overlap="1" width="1920" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0">
-      <level height="1920" width="1920" preload="0" predecode="0"/>
-      <level height="960" width="960" preload="0" predecode="0"/>
-      <level height="480" width="480" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama hideabout="1" id="node3">
+    <input width="1920" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1920" overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start fov="70.1063" tilt="-10.6267" projection="4" pan="149.899"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="270" pan="360"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="12.3231" tilt="-10.1695" fov="70.1063"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
     </view>
-    <userdata description="" info="" customnodeid="" copyright="" author="" tags="" datetime="" longitude="" source="" comment="" title="" latitude=""/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label backgroundalpha="1" textalpha="1" borderradius="1" border="1" textcolor="0x000000" height="20" width="180" wordwrap="1" borderalpha="1" background="1" bordercolor="0x000000" enabled="1" backgroundcolor="0xffffff"/>
-      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+    <userdata customnodeid="" title="GARNIER COLORATION SHELF" copyright="" tags="wetransfer_migros-yeniler_2023-02-02_1048" source="" description="" datetime="" comment="" latitude="" author="" info="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" enabled="1" borderalpha="1" height="20" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" borderradius="1" textalpha="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0" zoomfov="20" softedge="0" type="crossdissolve" blendtime="1" enabled="1" zoomout="0"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" rubberband="0" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" lockedkeyboard="0" hideabout="1" invertcontrol="1" invertwheel="0">
-      <menulink text="360 VR Turkey" url="https://www.360vrturkey.com"/>
+    <transition enabled="1" zoomout="0" zoomspeed="2" zoomoutpause="1" softedge="0" zoomin="0" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" hideabout="1" lockedwheel="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" contextprojections="0" contextfullscreen="1">
+      <menulink url="https://www.360vrturkey.com" text="360 VR Turkey"/>
     </control>
   </panorama>
-  <panorama hideabout="1" id="node9">
-    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1920" levelbias="0.400" overlap="1" width="1920" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0">
-      <level height="1920" width="1920" preload="0" predecode="0"/>
-      <level height="960" width="960" preload="0" predecode="0"/>
-      <level height="480" width="480" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama hideabout="1" id="node4">
+    <input width="1920" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1920" overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start fov="70.1063" tilt="-17.0391" projection="4" pan="148.233"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="270" pan="360"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="5.06156" tilt="-17.6428" fov="70.1063"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
     </view>
-    <userdata description="" info="" customnodeid="" copyright="" author="" tags="" datetime="" longitude="" source="" comment="" title="" latitude=""/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label backgroundalpha="1" textalpha="1" borderradius="1" border="1" textcolor="0x000000" height="20" width="180" wordwrap="1" borderalpha="1" background="1" bordercolor="0x000000" enabled="1" backgroundcolor="0xffffff"/>
-      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+    <userdata customnodeid="" title="SCIENCE TABLE &amp; MASK BAR" copyright="" tags="wetransfer_migros-yeniler_2023-02-02_1048" source="" description="" datetime="" comment="" latitude="" author="" info="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" enabled="1" borderalpha="1" height="20" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" borderradius="1" textalpha="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0" zoomfov="20" softedge="0" type="crossdissolve" blendtime="1" enabled="1" zoomout="0"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" rubberband="0" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" lockedkeyboard="0" hideabout="1" invertcontrol="1" invertwheel="0">
-      <menulink text="360 VR Turkey" url="https://www.360vrturkey.com"/>
+    <transition enabled="1" zoomout="0" zoomspeed="2" zoomoutpause="1" softedge="0" zoomin="0" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" hideabout="1" lockedwheel="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" contextprojections="0" contextfullscreen="1">
+      <menulink url="https://www.360vrturkey.com" text="360 VR Turkey"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node1">
+    <input width="1920" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1920" overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-168.331" tilt="-10.8689" fov="70.1063"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata customnodeid="" title="SKIN GENIUS &amp; SERUM BAR" copyright="" tags="wetransfer_migros-yeniler_2023-02-02_1048" source="" description="" datetime="" comment="" latitude="" author="" info="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" enabled="1" borderalpha="1" height="20" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" borderradius="1" textalpha="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomout="0" zoomspeed="2" zoomoutpause="1" softedge="0" zoomin="0" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" hideabout="1" lockedwheel="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" contextprojections="0" contextfullscreen="1">
+      <menulink url="https://www.360vrturkey.com" text="360 VR Turkey"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node10">
-    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1920" levelbias="0.400" overlap="1" width="1920" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0">
-      <level height="1920" width="1920" preload="0" predecode="0"/>
-      <level height="960" width="960" preload="0" predecode="0"/>
-      <level height="480" width="480" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input width="1920" levelingroll="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1920" overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start fov="70.1063" tilt="-17.0391" projection="4" pan="148.234"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="270" pan="360"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="123.306" tilt="-22.1887" fov="70.1063"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
     </view>
-    <userdata description="" info="" customnodeid="" copyright="" author="" tags="" datetime="" longitude="" source="" comment="" title="" latitude=""/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label backgroundalpha="1" textalpha="1" borderradius="1" border="1" textcolor="0x000000" height="20" width="180" wordwrap="1" borderalpha="1" background="1" bordercolor="0x000000" enabled="1" backgroundcolor="0xffffff"/>
-      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+    <userdata customnodeid="" title="GREEN LABS" copyright="" tags="wetransfer_migros-yeniler_2023-02-02_1048" source="" description="" datetime="" comment="" latitude="" author="" info="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" enabled="1" borderalpha="1" height="20" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" borderradius="1" textalpha="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0" zoomfov="20" softedge="0" type="crossdissolve" blendtime="1" enabled="1" zoomout="0"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" rubberband="0" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" lockedkeyboard="0" hideabout="1" invertcontrol="1" invertwheel="0">
-      <menulink text="360 VR Turkey" url="https://www.360vrturkey.com"/>
+    <transition enabled="1" zoomout="0" zoomspeed="2" zoomoutpause="1" softedge="0" zoomin="0" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" hideabout="1" lockedwheel="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" contextprojections="0" contextfullscreen="1">
+      <menulink url="https://www.360vrturkey.com" text="360 VR Turkey"/>
     </control>
   </panorama>
   <panorama hideabout="1" id="node11">
-    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1920" levelbias="0.400" overlap="1" width="1920" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0">
-      <level height="1920" width="1920" preload="0" predecode="0"/>
-      <level height="960" width="960" preload="0" predecode="0"/>
-      <level height="480" width="480" preload="1" predecode="1"/>
-      <preview color="0x808080" strip="1"/>
+    <input width="1920" levelingroll="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1920" overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start fov="70.1063" tilt="-13.4752" projection="4" pan="-176.987"/>
-      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max fov="120" fovfisheye="360" tilt="90" scaletofit="1" fovstereographic="270" pan="360"/>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-173.998" tilt="-16.1273" fov="70.1063"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
     </view>
-    <userdata description="" info="" customnodeid="" copyright="" author="" tags="" datetime="" longitude="" source="" comment="" title="" latitude=""/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label backgroundalpha="1" textalpha="1" borderradius="1" border="1" textcolor="0x000000" height="20" width="180" wordwrap="1" borderalpha="1" background="1" bordercolor="0x000000" enabled="1" backgroundcolor="0xffffff"/>
-      <polystyle backgroundalpha="0.2509803921568627" handcursor="1" mode="0" borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+    <userdata customnodeid="" title="FAVORITE INGREDIENTS BAR" copyright="" tags="wetransfer_migros-yeniler_2023-02-02_1048" source="" description="" datetime="" comment="" latitude="" author="" info="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" enabled="1" borderalpha="1" height="20" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" borderradius="1" textalpha="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
     </hotspots>
     <media/>
-    <transition zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0" zoomfov="20" softedge="0" type="crossdissolve" blendtime="1" enabled="1" zoomout="0"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control contextfullscreen="1" simulatemass="1" dblclickfullscreen="0" contextprojections="0" rubberband="0" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" lockedkeyboard="0" hideabout="1" invertcontrol="1" invertwheel="0">
-      <menulink text="360 VR Turkey" url="https://www.360vrturkey.com"/>
+    <transition enabled="1" zoomout="0" zoomspeed="2" zoomoutpause="1" softedge="0" zoomin="0" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" hideabout="1" lockedwheel="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" contextprojections="0" contextfullscreen="1">
+      <menulink url="https://www.360vrturkey.com" text="360 VR Turkey"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node9">
+    <input width="1920" levelingroll="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1920" overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-5.56746" tilt="2.96488" fov="95.471"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata customnodeid="" title="SKINCARE SHELF &amp; CATEGORY SERUM BAR" copyright="" tags="wetransfer_migros-yeniler_2023-02-02_1048" source="" description="" datetime="" comment="" latitude="" author="" info="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" enabled="1" borderalpha="1" height="20" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" borderradius="1" textalpha="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomout="0" zoomspeed="2" zoomoutpause="1" softedge="0" zoomin="0" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" hideabout="1" lockedwheel="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" contextprojections="0" contextfullscreen="1">
+      <menulink url="https://www.360vrturkey.com" text="360 VR Turkey"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node8">
+    <input width="1920" levelingroll="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1920" overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-2.09846" tilt="-3.45617" fov="95.471"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata customnodeid="" title="LP MAKEUP WALL UNIT &amp; SOCIAL MEDIA FAVORITES DISPLAY" copyright="" tags="wetransfer_migros-yeniler_2023-02-02_1048" source="" description="" datetime="" comment="" latitude="" author="" info="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" enabled="1" borderalpha="1" height="20" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" borderradius="1" textalpha="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomout="0" zoomspeed="2" zoomoutpause="1" softedge="0" zoomin="0" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" hideabout="1" lockedwheel="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" contextprojections="0" contextfullscreen="1">
+      <menulink url="https://www.360vrturkey.com" text="360 VR Turkey"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node7">
+    <input width="1920" levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1920" overlap="1" levelbias="0.400" levelingpitch="0" levelbiashidpi="1.000">
+      <level width="1920" preload="0" height="1920" predecode="0"/>
+      <level width="960" preload="0" height="960" predecode="0"/>
+      <level width="480" preload="1" height="480" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="4.80015" tilt="-3.27449" fov="95.471"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" fovfisheye="360" scaletofit="1" tilt="90" fovstereographic="270" fov="120"/>
+    </view>
+    <userdata customnodeid="" title="MAYBELLINE WALL UNIT" copyright="" tags="wetransfer_migros-yeniler_2023-02-02_1048" source="" description="" datetime="" comment="" latitude="" author="" info="" longitude=""/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label width="180" enabled="1" borderalpha="1" height="20" backgroundalpha="1" bordercolor="0x000000" border="1" wordwrap="1" borderradius="1" textalpha="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff"/>
+      <polystyle borderalpha="1" backgroundalpha="0.2509803921568627" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomout="0" zoomspeed="2" zoomoutpause="1" softedge="0" zoomin="0" blendcolor="0x000000" blendtime="1" type="crossdissolve" zoomfov="20"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" lockedmouse="0" hideabout="1" lockedwheel="0" speedwheel="1" invertcontrol="1" invertwheel="0" lockedkeyboardzoom="0" simulatemass="1" rubberband="0" contextprojections="0" contextfullscreen="1">
+      <menulink url="https://www.360vrturkey.com" text="360 VR Turkey"/>
     </control>
   </panorama>
   <masternode>
-    <userdata description="" info="" customnodeid="" copyright="" author="" tags="" datetime="" longitude="" source="" comment="" title="" latitude=""/>
+    <userdata customnodeid="" title="" copyright="" tags="" source="" description="" datetime="" comment="" latitude="" author="" info="" longitude=""/>
   </masternode>
 </tour>
